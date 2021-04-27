@@ -233,8 +233,8 @@
       </Resources>
     
       <WebApplicationInfo>
-        <Id>YOUR APP ID HERE</Id>
-        <Resource>api://localhost:44349/YOUR APP ID HERE</Resource>
+        <Id>967ac950-d9d4-4b7a-9fdd-4a2bd0a5d85b</Id>
+        <Resource>api://localhost:44349/Y967ac950-d9d4-4b7a-9fdd-4a2bd0a5d85b</Resource>
         <Scopes>
           <Scope>files.readwrite</Scope>
           <Scope>mail.read</Scope>
